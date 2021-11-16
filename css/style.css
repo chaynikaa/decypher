@@ -2507,5 +2507,10 @@ section.what_you {
     padding: 2.5em 0;
 }
 }
+button{
+    background-color: #029eb7;
+    color: white;
+    cursor: pointer;
+}
 /*--//responsive--*/
 
