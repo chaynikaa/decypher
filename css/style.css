@@ -29,6 +29,7 @@ body a:hover {
     text-decoration: none;
 }
 
+
 body a:focus,
 a:hover {
     text-decoration: none;
@@ -437,7 +438,7 @@ a.rslides_nav.rslides1_nav.next {
 }
 
 ul#slider li:nth-child(1) {
-    background: url(../images/bg.jpg)no-repeat 0px 0px;
+    background: url(../images/pic1.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -447,7 +448,7 @@ ul#slider li:nth-child(1) {
 }
 
 ul#slider li:nth-child(2) {
-    background: url(../images/bg1.jpg)no-repeat 0px 0px;
+    background: url(../images/pic2.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -457,7 +458,7 @@ ul#slider li:nth-child(2) {
 }
 
 ul#slider li:nth-child(3) {
-    background: url(../images/bg2.jpg)no-repeat 0px 0px;
+    background: url(../images/pic3.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -467,7 +468,7 @@ ul#slider li:nth-child(3) {
 }
 
 ul#slider li:nth-child(4) {
-    background: url(../images/bg3.jpg)no-repeat 0px 0px;
+    background: url(../images/pic4.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
